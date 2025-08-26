@@ -88,6 +88,7 @@ sessions/
 
 # Uploads directory (if contains user uploaded files)
 uploads/
+Output_SS/
 
 # Log files
 *.log
