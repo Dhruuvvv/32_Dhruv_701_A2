@@ -1,0 +1,15 @@
+{
+  "username": "Seedhe Maut",
+  "email": "dl91@gmail.com",
+  "gender": "Male",
+  "hobbies": [
+    "Traveling",
+    "Gaming"
+  ],
+  "profilePic": "/uploads/1756205106532_download.jpg",
+  "otherPics": [
+    "/uploads/1756205106536_tbsm extended.jpg",
+    "/uploads/1756205106537_Cover Art of 101.jpg",
+    "/uploads/1756205106537_kshama desktop wallpaper.jpg"
+  ]
+}
